@@ -91,9 +91,9 @@ def load_resources():
         embeddings,
         allow_dangerous_deserialization=True
     )
-
+    groq_key = os.getenv("GROQ_API_KEY") or st.secrets.get("GROQ_API_KEY", "")
     llm = ChatGroq(
-        groq_api_key=os.getenv("GROQ_API_KEY"),
+        groq_api_key=groq_key,
         model_name="llama-3.3-70b-versatile",
         temperature=0.7,
         max_tokens=1024
