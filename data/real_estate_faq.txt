@@ -1,0 +1,32 @@
+REAL ESTATE FAQ
+
+Q: What is the difference between a buyer's agent and a seller's agent?
+A: A buyer's agent represents the person purchasing the property and helps them find homes, negotiate prices, and navigate the buying process. A seller's agent (listing agent) represents the homeowner and works to sell the property at the best price. Both are licensed real estate professionals but serve opposite sides of the transaction.
+
+Q: What is EMD (Earnest Money Deposit)?
+A: Earnest Money Deposit is a sum of money a buyer pays upfront to show they are serious about purchasing a property. It is typically 1-3% of the purchase price. If the deal goes through, it is applied toward the down payment. If the buyer backs out without a valid reason, the seller may keep it.
+
+Q: What is a home appraisal?
+A: A home appraisal is an unbiased professional estimate of a property's market value. It is usually required by lenders before approving a mortgage to ensure they are not lending more than the home is worth.
+
+Q: What does "under contract" mean?
+A: "Under contract" means a seller has accepted a buyer's offer and both parties have signed a purchase agreement. The home is not yet sold — inspections, financing, and other contingencies still need to be completed.
+
+Q: What is a contingency in real estate?
+A: A contingency is a condition that must be met before the real estate transaction becomes final. Common contingencies include financing contingency (buyer must secure a loan), inspection contingency (property passes inspection), and appraisal contingency (home appraises at or above purchase price).
+
+Q: What is the difference between pre-qualification and pre-approval?
+A: Pre-qualification is an informal estimate of how much you might be able to borrow, based on self-reported financial information. Pre-approval is a more formal process where the lender verifies your income, credit, and assets. Pre-approval is stronger and shows sellers you are a serious buyer.
+
+Q: What are closing costs?
+A: Closing costs are fees paid at the end of a real estate transaction. They typically range from 2-5% of the loan amount and include lender fees, title insurance, escrow fees, property taxes, and attorney fees.
+
+Q: What is equity in real estate?
+A: Home equity is the difference between your property's current market value and the amount you still owe on your mortgage. For example, if your home is worth $300,000 and you owe $200,000, your equity is $100,000.
+
+Q: What is an HOA (Homeowners Association)?
+A: An HOA is an organization in a planned community or condominium that sets and enforces rules for properties. Homeowners pay monthly or annual HOA fees which cover shared amenities, maintenance, and community management.
+
+Q: What is a title search?
+A: A title search is a review of public records to confirm the legal ownership of a property and check for any liens, encumbrances, or claims against it. It ensures the seller has the legal right to sell the property.
+```

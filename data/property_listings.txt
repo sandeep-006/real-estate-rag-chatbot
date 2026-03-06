@@ -1,0 +1,57 @@
+PROPERTY LISTINGS
+
+Property 1:
+Name: Sunset Villa
+Location: 123 Maple Street, Austin, Texas
+Type: Single Family Home
+Price: $450,000
+Bedrooms: 4
+Bathrooms: 3
+Area: 2,200 sq ft
+Description: Beautiful 4-bedroom home with an open floor plan, modern kitchen with granite countertops, hardwood floors, and a spacious backyard. Located in a quiet neighborhood close to top-rated schools and shopping centers.
+Amenities: Swimming pool, 2-car garage, solar panels, smart home system
+
+Property 2:
+Name: Downtown Loft
+Location: 456 Oak Avenue, Austin, Texas
+Type: Apartment/Condo
+Price: $275,000
+Bedrooms: 2
+Bathrooms: 2
+Area: 1,100 sq ft
+Description: Modern loft in the heart of downtown Austin. Floor-to-ceiling windows with city views, open concept layout, high-end appliances, and exposed brick walls. Walking distance to restaurants, nightlife, and business district.
+Amenities: Rooftop terrace, gym, concierge service, pet friendly
+
+Property 3:
+Name: Green Meadows House
+Location: 789 Pine Road, Round Rock, Texas
+Type: Single Family Home
+Price: $380,000
+Bedrooms: 3
+Bathrooms: 2
+Area: 1,800 sq ft
+Description: Charming home in a family-friendly suburb. Features a renovated kitchen, large master suite, covered patio, and a big backyard perfect for kids. Easy access to highways and tech company campuses.
+Amenities: Community park, walking trails, good school district
+
+Property 4:
+Name: Lakefront Retreat
+Location: 321 Lake Drive, Lake Travis, Texas
+Type: Luxury Home
+Price: $1,200,000
+Bedrooms: 5
+Bathrooms: 4
+Area: 4,500 sq ft
+Description: Stunning lakefront property with breathtaking water views. Features a private dock, gourmet kitchen, home theater, wine cellar, and expansive outdoor entertaining areas.
+Amenities: Private dock, boat garage, infinity pool, smart home automation
+
+Property 5:
+Name: Budget Starter Home
+Location: 555 Elm Street, Pflugerville, Texas
+Type: Single Family Home
+Price: $220,000
+Bedrooms: 2
+Bathrooms: 1
+Area: 950 sq ft
+Description: Affordable starter home perfect for first-time buyers. Recently updated with new roof, HVAC, and fresh paint. Small but functional with a cozy backyard.
+Amenities: Carport, storage shed, near public transit
+```

@@ -1,0 +1,37 @@
+REAL ESTATE GLOSSARY
+
+Amortization: The process of paying off a loan over time through regular payments. Each payment covers both interest and principal, gradually reducing the loan balance.
+
+Assessed Value: The dollar value assigned to a property by a public tax assessor for the purpose of calculating property taxes. It may differ from market value.
+
+Cap Rate (Capitalization Rate): A metric used in commercial real estate to evaluate the return on investment. Calculated as Net Operating Income divided by property value.
+
+Cash Flow: In rental properties, cash flow is the money remaining after all expenses (mortgage, maintenance, taxes, insurance) are paid from rental income.
+
+Deed: A legal document that transfers ownership of real property from one person to another. It must be signed, notarized, and recorded with the local government.
+
+Depreciation: A tax benefit for investment property owners that allows them to deduct the cost of the property over its useful life (27.5 years for residential, 39 years for commercial).
+
+Escrow: A neutral third party that holds funds and documents during a real estate transaction until all conditions are met and the deal is finalized.
+
+Fixed-Rate Mortgage: A mortgage where the interest rate stays the same for the entire loan term. Payments are predictable and stable.
+
+Adjustable-Rate Mortgage (ARM): A mortgage where the interest rate changes periodically based on a market index. Usually starts lower than fixed rates but can increase over time.
+
+LTV (Loan-to-Value Ratio): The ratio of the loan amount to the appraised value of the property. Lenders use this to assess lending risk. A lower LTV means less risk.
+
+MLS (Multiple Listing Service): A database used by real estate agents to share information about properties for sale. It helps buyers' agents find available listings.
+
+Net Operating Income (NOI): The income from a rental property after operating expenses are deducted, but before mortgage payments and taxes.
+
+PMI (Private Mortgage Insurance): Insurance required by lenders when a buyer's down payment is less than 20% of the home's purchase price. It protects the lender, not the buyer.
+
+Principal: The original loan amount borrowed, separate from interest. Each mortgage payment reduces the principal balance.
+
+ROI (Return on Investment): A measure of profitability calculated as (Net Profit / Cost of Investment) x 100. Used to evaluate real estate investments.
+
+Short Sale: When a homeowner sells their property for less than the amount owed on the mortgage, with the lender's approval. Usually happens when the owner is facing foreclosure.
+
+Title Insurance: Insurance that protects buyers and lenders against losses from disputes over property ownership or defects in the title discovered after purchase.
+
+Zoning: Laws that regulate how land in specific areas can be used — residential, commercial, industrial, etc. Zoning determines what can be built on a piece of land.
