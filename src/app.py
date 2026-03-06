@@ -21,6 +21,17 @@ load_dotenv()
 BASE_DIR        = Path(__file__).resolve().parent.parent
 VECTORSTORE_DIR = BASE_DIR / "vectorstore"
 
+# ── Auto-build vectorstore if missing (needed for Streamlit Cloud) ─────────────
+if not VECTORSTORE_DIR.exists() or not (VECTORSTORE_DIR / "index.faiss").exists():
+    st.set_page_config(page_title="🏠 Real Estate Chatbot", page_icon="🏠")
+    st.info("⚙️ Building knowledge base for first time... Please wait 2-3 minutes.")
+    with st.spinner("Building vectorstore..."):
+        sys.path.append(str(Path(__file__).resolve().parent))
+        from ingest import main as run_ingest
+        run_ingest()
+    st.success("✅ Knowledge base built! Reloading...")
+    st.rerun()
+
 # ── Page Config ────────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="🏠 Real Estate Chatbot",

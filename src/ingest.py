@@ -1,5 +1,8 @@
 import os
 import sys
+import warnings
+warnings.filterwarnings("ignore")
+
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -8,7 +11,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
-# Load .env
+# Load .env (works locally, ignored on cloud)
 load_dotenv()
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
@@ -59,9 +62,8 @@ def create_vectorstore(chunks):
     print("\n🔢 Creating embeddings using HuggingFace (free, runs locally)...")
     print("   ⏳ First time will download the model (~90MB). Please wait...")
 
-    # Free local embedding model — no API key needed
     embeddings = HuggingFaceEmbeddings(
-        model_name="all-MiniLM-L6-v2",   # small, fast, accurate
+        model_name="all-MiniLM-L6-v2",
         model_kwargs={"device": "cpu"},
         encode_kwargs={"normalize_embeddings": True}
     )
@@ -86,7 +88,7 @@ def main():
     chunks    = split_documents(documents)
     create_vectorstore(chunks)
 
-    print("\n🎉 Ingestion complete! Ready for Phase 3.")
+    print("\n🎉 Ingestion complete! Ready for chatbot.")
     print("=" * 50)
 
 
